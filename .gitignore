@@ -1,0 +1,4 @@
+*.lock
+*.input
+.envrc
+.direnv
